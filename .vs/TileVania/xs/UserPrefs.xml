@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E1DDCD11-7E0A-5FDA-26BF-C84E8DE927E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScenePersist.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="111" Column="29" />
+      <File FileName="Assets/Scripts/LevelExit.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/GameSession.cs" Line="40" Column="10" />
+      <File FileName="Assets/Scripts/CoinPickup.cs" Line="17" Column="74" />
+      <File FileName="Assets/Scripts/ScenePersist.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TileVania" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2be59fe9-21b6-4a52-b581-7967d796e826" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
