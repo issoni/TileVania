@@ -531,3 +531,19 @@ Received Import Request.
 Start importing Assets/Levels/Level 3.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c54cf1d99ccf25ba5f7205535180ec') in 0.082117 seconds 
   Import took 0.207429 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 780.376662 seconds.
+  path: Assets/Levels/Level 2.unity
+  artifactKey: Guid(9873180f5c46b41dc8afddf56f785625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 2.unity using Guid(9873180f5c46b41dc8afddf56f785625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5bfc126064d631f06fc8de35cf0c04') in 0.037532 seconds 
+  Import took 0.194462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.813082 seconds.
+  path: Assets/Levels/Level 3.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 3.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e228bd0e4b52852d56f792e45245f7') in 0.035145 seconds 
+  Import took 0.043881 seconds .
+
