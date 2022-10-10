@@ -3,4 +3,4 @@
  
  A platformer with 3 levels with increasing difficulty. Kill goobers, collect coins, try to stay alive. 
 
-<img src= https://im3.ezgif.com/tmp/ezgif-3-cc0e350491.gif](https://twitter.com/i/status/1579297119575605249) width=250><br>
+<img src= https://github.com/issoni/TileVania/blob/main/ezgif-3-cc0e350491.gif width=250><br>
